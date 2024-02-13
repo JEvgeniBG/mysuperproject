@@ -1,1 +1,28 @@
-CaoSrbija
+diff --git b/file1.txt a/file1.txt
+index e69de29..bddb32c 100644
+--- b/file1.txt
++++ a/file1.txt
+@@ -0,0 +1 @@
++CaoSrbija
+(1/1) Apply this hunk to index and worktree [y,n,q,a,d,e,?]? y - apply this hunk to index and worktree
+n - do not apply this hunk to index and worktree
+q - quit; do not apply this hunk or any of the remaining ones
+a - apply this hunk and all later hunks in the file
+d - do not apply this hunk or any of the later hunks in the file
+e - manually edit the current hunk
+? - print help
+@@ -0,0 +1 @@
++CaoSrbija
+(1/1) Apply this hunk to index and worktree [y,n,q,a,d,e,?]? @@ -0,0 +1 @@
++CaoSrbija
+(1/1) Apply this hunk to index and worktree [y,n,q,a,d,e,?]? @@ -0,0 +1 @@
++CaoSrbija
+(1/1) Apply this hunk to index and worktree [y,n,q,a,d,e,?]? @@ -0,0 +1 @@
++CaoSrbija
+(1/1) Apply this hunk to index and worktree [y,n,q,a,d,e,?]? @@ -0,0 +1 @@
++CaoSrbija
+(1/1) Apply this hunk to index and worktree [y,n,q,a,d,e,?]? @@ -0,0 +1 @@
++CaoSrbija
+(1/1) Apply this hunk to index and worktree [y,n,q,a,d,e,?]? @@ -0,0 +1 @@
++CaoSrbija
+(1/1) Apply this hunk to index and worktree [y,n,q,a,d,e,?]? 
